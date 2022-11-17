@@ -63,7 +63,7 @@ var questions =
      currentquestion.answer)
    }
 
-console.log ("yeh you scored: " + score );
+console.log ("Hey you scored: " + score );
     
   
 
